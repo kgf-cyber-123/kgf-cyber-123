@@ -50,14 +50,6 @@
 
 ---
 
-### ⚡ ʀᴀɴᴅᴏᴍ ʜᴀᴄᴋᴇʀ ǫᴜᴏᴛᴇ
-
-<p align="center">
-  <img src="https://readme-quotes-bay.vercel.app/api?theme=radical&font=vscode" width="100%" />
-</p>
-
----
-
 <div align="center">
   <h3>🐍 ʟɪᴠᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀɪᴅ ᴛʀᴀᴄᴋᴇʀ</h3>
   <img src="https://github.com/kgf-cyber-123/kgf-cyber-123/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
