@@ -10,7 +10,7 @@
 
 ---
 
-### 💀 ᴛᴀʀɢᴇᴛ ᴘʀᴏғɪʟᴇ // ᴀʙᴏᴜᴛ ᴍᴇ
+### 💀 ᴀʙᴏᴜᴛ ᴍᴇ
 
 <p align="center">
   <b>[+] SYSTEM OVERRIDE: I am Kalyan King, commander of KGF Cyber Team. Operating within the terminal shadows, specializing in Python automation, API exploitation, secure Telegram bot architecture, and advanced threat research.</b>
@@ -18,7 +18,7 @@
 
 ---
 
-### 🖼️ sʏsᴛᴇᴍ sᴄʀᴇᴇɴsʜᴏᴛ // ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡ
+### 🖼️ ᴘʀᴏғɪʟᴇ ᴠɪᴇᴡ
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kgf-cyber-123/kgf-cyber-123/main/Screenshot_2026_1116_025936.jpg" alt="Profile Screenshot" width="800px" style="border-radius: 8px;" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ ᴇxᴘʟᴏɪᴛs & ᴛᴇᴄʜ sᴛᴀᴄᴋ
+### 🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,php,html,css,js,git,github,linux,termux,vscode" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🌐 𝐬ᴇᴄᴜʀᴇ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴs // ᴏғғɪᴄɪᴀʟ ʟɪɴᴋs
+### 🌐 ᴏғғɪᴄɪᴀʟ ʟɪɴᴋs
 
 <p align="center">
   <a href="https://www.facebook.com/Kalyanmitro123">
